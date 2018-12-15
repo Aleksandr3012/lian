@@ -264,7 +264,56 @@ h1 {
     border: none;
 }
 
-/*.map {*/
-/*width: 100%;*/
-/*height: 360px;*/
-/*}*/
+.map {
+    margin-bottom: 71px;
+}
+
+.Our-Values {
+    margin: auto;
+    margin-bottom: 58px;
+}
+.Our-Values{
+    margin-bottom: 62px;
+}
+
+.Our-Values h2 {
+    text-transform: uppercase;
+    font-size: 21px;
+    margin-bottom: 45px;
+    text-align: center;
+}
+
+.Our-Values p {
+    text-align: center;
+    line-height: 47px;
+    font-size: 10px;
+}
+
+.owl-carousel image{
+    width: 354px;
+    height: 249px;
+}
+
+.owl-carousel div {
+margin-right: 34px;
+}
+.owl-carousel h2 {
+    margin-top: 27px;
+    margin-bottom: 44px;
+    text-transform: uppercase;
+    font-size: 13px;
+}
+.owl-carousel p{
+    line-height: 49px;
+    font-size: 10px;
+}
+
+
+
+
+footer {
+    width: 100%;
+    background-color: #ffffff;
+    -webkit-box-shadow: 0 0 5px 4px #b8bcbe;
+    box-shadow: 0 0 5px 4px #b8bcbe;
+}

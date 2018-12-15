@@ -23,7 +23,7 @@ $(document).ready(function(){
                 items:1
             },
             1000:{
-                items:1
+                items:3
             }
         }
     });
