@@ -347,6 +347,9 @@ footer .social a {
     color: #777777;
     font-size: 13px;
 }
+footer .social a:nth-last-of-type(1) {
+    margin-right: 0;
+}
 
 footer .footer-bot {
     line-height: 94px;
